@@ -11,7 +11,7 @@ preview_id = "your_preview_kv_namespace_id_here"  # 预览环境KV ID（可选�
 # 环境变量配置
 [vars]
 # 管理员密码（生产环境建议通过Cloudflare控制台设置，此处仅为示例）
-# ADMIN_PASSWORD = "your_secure_password"
+ADMIN_PASSWORD = "liwanxi521"
 
 # 定时任务配置（每12小时执行一次）
 [[triggers]]
